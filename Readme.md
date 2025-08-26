@@ -94,7 +94,8 @@ The app will now open on your device, and you'll be able to see the live metal p
 
 The project code is organized within the `src/` directory to maintain a clean and scalable structure.
 
-````src/
+```
+src/
 ├── components/     # Reusable UI components (e.g., Loaders, List Items)
 ├── constants/      # API configuration and constant data
 ├── context/        # React Context for global state (e.g., Currency)
@@ -102,12 +103,5 @@ The project code is organized within the `src/` directory to maintain a clean an
 ├── navigation/     # Navigation stack and configuration
 ├── screens/        # Top-level screen components (HomeScreen, DetailsScreen)
 ├── styles/         # Global styles and theme definitions (theme.ts)
-└── types.ts        # Global TypeScript type definitions```
-
-
----
-
-## ## 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-````
+└── types.ts        # Global TypeScript type definitions
+```
