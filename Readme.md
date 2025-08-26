@@ -1,7 +1,7 @@
 # Metal Prices Live - React Native App
 
-<img src="screenshot/screenshot1.jpg" alt="Demo of app" width="200"/>
-<img src="screenshot/screenshot2.jpg" alt="Demo of app" width="200"/>
+<img src="screenshot/screenshot1.jpg" alt="Demo of app" width="250" style="margin-right: 1rem;"/>&emsp;<img src="screenshot/screenshot2.jpg" alt="Demo of app" width="250"/>
+
 
 A clean, modern, and lightweight React Native application built with Expo and TypeScript to display live and historical prices for precious metals. The app fetches data from the [MetalpriceAPI](https://metalpriceapi.com/), provides a currency conversion feature, and automatically refreshes prices every five minutes.
 
