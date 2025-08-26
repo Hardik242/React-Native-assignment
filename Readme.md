@@ -4,7 +4,7 @@
 
 ---
 
-## ## ✨ Features
+## ✨ Features
 
 -   **Live Metal Prices:** View real-time prices for Gold, Silver, Platinum, and Palladium.
 -   **Auto-Refresh:** Prices on the home screen automatically update every 5 minutes.
@@ -16,7 +16,7 @@
 
 ---
 
-## ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 -   **Framework:** [React Native](https://reactnative.dev/) (with [Expo](https://expo.dev/))
 -   **Language:** [TypeScript](https://www.typescriptlang.org/)
@@ -27,11 +27,11 @@
 
 ---
 
-## ## 🚀 Getting Started
+## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### ### Prerequisites
+### Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
 
@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed on your system:
     -   [Download for Android (Google Play Store)](https://play.google.com/store/apps/details?id=host.exp.exponent)
     -   [Download for iOS (App Store)](https://apps.apple.com/us/app/expo-go/id982107779)
 
-### ### Installation & Setup
+### Installation & Setup
 
 1.  **Clone the Repository**
 
@@ -72,7 +72,7 @@ Before you begin, ensure you have the following installed on your system:
         ```
     -   **Important:** The variable name **must** start with `EXPO_PUBLIC_`.
 
-### ### Running the App
+### Running the App
 
 1.  **Start the Development Server**
     Run the following command in your terminal:
@@ -90,7 +90,7 @@ The app will now open on your device, and you'll be able to see the live metal p
 
 ---
 
-## ## 📁 Project Structure
+## 📁 Project Structure
 
 The project code is organized within the `src/` directory to maintain a clean and scalable structure.
 
