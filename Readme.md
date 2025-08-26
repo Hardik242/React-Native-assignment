@@ -1,6 +1,8 @@
 # Metal Prices Live - React Native App
 
-![App Screenshot](https://i.imgur.com/your-screenshot-url.png) A clean, modern, and lightweight React Native application built with Expo and TypeScript to display live and historical prices for precious metals. The app fetches data from the [MetalpriceAPI](https://metalpriceapi.com/), provides a currency conversion feature, and automatically refreshes prices every five minutes.
+![App Screenshot](https://github.com/Hardik242/React-Native-assignment/screenshot/screenshot1.jpg)
+![App Screenshot](https://github.com/Hardik242/React-Native-assignment/screenshot/screenshot2.jpg)
+A clean, modern, and lightweight React Native application built with Expo and TypeScript to display live and historical prices for precious metals. The app fetches data from the [MetalpriceAPI](https://metalpriceapi.com/), provides a currency conversion feature, and automatically refreshes prices every five minutes.
 
 ---
 
@@ -22,7 +24,7 @@
 -   **Language:** [TypeScript](https://www.typescriptlang.org/)
 -   **State Management:** React Context API & Hooks
 -   **Navigation:** [React Navigation](https://reactnavigation.org/)
--   **Styling:** React Native `StyleSheet`
+-   **Styling:** React Native _StyleSheet_
 -   **Data Source:** [MetalpriceAPI.com](https://metalpriceapi.com/)
 
 ---
@@ -45,7 +47,7 @@ Before you begin, ensure you have the following installed on your system:
 1.  **Clone the Repository**
 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/Hardik242/React-Native-assignment
     cd your-repo-name
     ```
 
